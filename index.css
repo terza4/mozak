@@ -1,0 +1,36 @@
+#rijec{
+    color: rgb(64, 130, 223);
+    text-align: center;
+    font-size: 75px;
+}
+.slika{
+    width: 20vw;
+    height: 20vw;
+}
+body{
+    background-color: rgb(243, 243, 238);
+}
+.oceantekst{
+    color: rgb(77, 134, 204);
+    background-color: azure;
+    font-size: 35px;
+    
+}
+.mjera{
+    text-align: left;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(75, 126, 203);
+}
+.slika1{
+    text-align: center;
+}
+.slika2{
+    background-color: rgb(62, 199, 245);
+}
+#ocean{
+    background-color: rgb(117, 172, 234);
+    color: rgb(46, 86, 188);
+    width: 50vw;
+    font-size: 35px;
+}
